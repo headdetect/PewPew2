@@ -9,9 +9,9 @@ PewPew2
 //TODO: 
 
 ### Tools
-[Tiled](http://www.mapeditor.org/)
-[XNA Content Compiler](http://xnacontentcompiler.codeplex.com/)
-[VS2012](#) (You can get Pro version on dreamspark)
+[Tiled](http://www.mapeditor.org/)  
+[XNA Content Compiler](http://xnacontentcompiler.codeplex.com/)  
+[VS2012](#) (You can get Pro version on dreamspark)  
 
 ### Requirements
-[Microsoft Dev Account](https://www.dreamspark.com/) Sign up using student email.
+[Microsoft Dev Account](https://www.dreamspark.com/) Sign up using student email. 
