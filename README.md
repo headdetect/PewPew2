@@ -1,17 +1,17 @@
 PewPew2
 =======
 
-#Art
+### Art
 [platformer art deluxe](http://opengameart.org/content/platformer-art-deluxe)
 
 
-#SFX
+### SFX
 //TODO: 
 
-#Tools
+### Tools
 [Tiled](http://www.mapeditor.org/)
 [XNA Content Compiler](http://xnacontentcompiler.codeplex.com/)
 [VS2012](#) (You can get Pro version on dreamspark)
 
-#Requirements
+### Requirements
 [Microsoft Dev Account](https://www.dreamspark.com/) Sign up using student email.
